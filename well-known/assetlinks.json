@@ -3,6 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.arkanredaarkan88_collab.twa",
-        "sha256_cert_fingerprints": ["5B:B2:EA:55:D0:1D:51:4F:4B:45:8B:03:F2:C8:56:8B:07:6A:44:6E:B5:61:41:24:EE:ED:94:41:DF:9D:1E:02"]
+        "sha256_cert_fingerprints": ["BE:48:53:85:D2:CA:DF:6B:51:65:77:D2:7D:C0:27:FE:60:FE:46:0C:63:39:25:BA:32:96:5C:F3:F4:8E:56:F6"]
       }
     }]
+
